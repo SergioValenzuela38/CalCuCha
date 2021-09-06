@@ -1,0 +1,40 @@
+body{
+
+background-image: url(imágenes/fondo.jpg);
+background-size:contain;
+
+}
+.header{
+  
+}
+.logo{
+    
+}
+.separador{
+    background: linear-gradient(rgb(58, 57, 57),grey);
+    
+}   
+.slider{
+  max-width: 1500px;
+}
+.img{
+  object-fit: scale-down;
+}
+#agenda{
+}
+.color{
+  background-color: grey;
+
+}
+
+$ gris-500
+# adb5bd
+$ gris-100
+$ gris-200
+$ gris-300
+$ gris-400
+$ gris-500
+$ gris-600
+$ gris-700
+$ gris-800
+$ gris-900
